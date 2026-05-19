@@ -176,7 +176,7 @@ function Dashboard() {
   const copyUrl = (shortCode) => {
 
     const shortUrl =
-      `http://localhost:5000/${shortCode}`;
+  `https://ziply-backend.onrender.com/${shortCode}`;
 
     navigator.clipboard.writeText(shortUrl);
 
@@ -1053,7 +1053,7 @@ function Dashboard() {
                             {/* SHORT URL */}
                             <td className="z-cell">
                               <a
-                                href={`http://localhost:5000/${url.shortCode}`}
+                                href={`https://ziply-backend.onrender.com/${url.shortCode}`}
                                 target="_blank"
                                 rel="noreferrer"
                                 className="short-link"
@@ -1100,7 +1100,7 @@ function Dashboard() {
                             <td className="z-cell center">
                               <div className="qr-wrap">
                                 <QRCodeCanvas
-                                  value={`http://localhost:5000/${url.shortCode}`}
+                                  value={`https://ziply-backend.onrender.com/${url.shortCode}`}
                                   size={46}
                                 />
                               </div>
