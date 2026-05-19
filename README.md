@@ -1,9 +1,17 @@
+
+# 🚀 Ziply — Shorten • Track • Analyze
+
+A modern full-stack URL Shortener with Analytics built using the MERN Stack.
+
+
+
+
 # 🚀 Setup Instructions
 
 ## 1️⃣ Clone the Repository
 
 ```bash
-git clone YOUR_GITHUB_REPOSITORY_LINK
+git clone https://github.com/DineshRam0127/ziply.git
 ```
 
 ---
@@ -11,7 +19,7 @@ git clone YOUR_GITHUB_REPOSITORY_LINK
 ## 2️⃣ Navigate to Project Folder
 
 ```bash
-cd Ziply
+cd ziply
 ```
 
 ---
@@ -137,7 +145,7 @@ Users can:
 
 ## 📌 Project Goal
 
-The main goal of Ziply was to build a modern full-stack URL Shortener application with analytics tracking using the MERN stack.
+The main goal of Ziply is to build a modern full-stack URL Shortener application with analytics tracking using the MERN stack.
 The application should allow authenticated users to create, manage, and analyze shortened URLs through a responsive dashboard.
 
 ---
@@ -282,7 +290,7 @@ Ziply successfully achieved:
 
 # 🏗️ Architecture Diagram
 
-```text id="1w1bvw"
+```text
 ┌─────────────────────┐
 │     React Client    │
 │   (Frontend UI)     │
@@ -319,9 +327,9 @@ Ziply successfully achieved:
 
 # 🎥 Project Demonstration Video
 
-Loom / YouTube Demo Link:
+Loom Demo Link:
 
-https://your-video-link-here.com
+https://www.loom.com/share/139cd2d8dd83469887e75c6163cc7ea4
 
 The video includes:
 - Project overview
