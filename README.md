@@ -334,7 +334,7 @@ Ziply successfully achieved:
 5. Redirects and analytics are handled server-side
 6. Dashboard displays analytics and click tracking
 
-![alt text](image.png)
+![Ziply Architecture Diagram](image.png)
 
 
 
