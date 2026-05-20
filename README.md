@@ -1,7 +1,21 @@
 
 # 🚀 Ziply — Shorten • Track • Analyze
 
-A modern full-stack URL Shortener with Analytics built using the MERN Stack.
+A modern full-stack URL Shortener with Analytics and built using the MERN Stack.
+
+
+
+## 🌐 Live Deployment Links
+
+### Frontend (Vercel)
+https://ziply-ivory.vercel.app
+
+### Backend API (Render)
+https://ziply-backend.onrender.com
+
+### Demo Video
+https://www.loom.com/share/139cd2d8dd83469887e75c6163cc7ea4
+
 
 
 
